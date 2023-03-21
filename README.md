@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project in Odin. This small project is all about recipes of my 3 favorite Filipino dish. Adobo, Lumpia, and Sinigang. I think this is a good start that I was able to apply my learnings in HTML. I'm looking forward to the next series!

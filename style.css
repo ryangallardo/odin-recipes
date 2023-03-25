@@ -1,0 +1,32 @@
+body {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.container {
+    background-color: rgb(224, 166, 39);
+    border-style: double;
+    margin: 15px;
+    padding: 10px 25px 25px 35px;
+    max-width: 350px;
+}   
+
+.recipes li a {
+    text-decoration: none;
+}
+
+ul li {
+    list-style-type: none;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    max-width: 210px;
+    background-color: hwb(24 27% 31%);
+}
+
+ul li a {
+    color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+
